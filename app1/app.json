@@ -1,0 +1,32 @@
+﻿{
+    "id":  "534f8343-b0c3-4da2-966d-24c12635e168",
+    "name":  "app1",
+    "publisher":  "ANBRU",
+    "version":  "1.0.0.0",
+    "brief":  "",
+    "description":  "",
+    "privacyStatement":  "",
+    "EULA":  "",
+    "help":  "",
+    "url":  "",
+    "logo":  "",
+    "dependencies":  [
+
+                     ],
+    "screenshots":  [
+
+                    ],
+    "platform":  "1.0.0.0",
+    "application":  "19.0.0.0",
+    "idRanges":  [
+                     {
+                         "from":  50000,
+                         "to":  51000
+                     }
+                 ],
+    "resourceExposurePolicy":  {
+                                   "allowDebugging":  true,
+                                   "allowDownloadingSource":  false,
+                                   "includeSourceInSymbolFile":  false
+                               }
+}
